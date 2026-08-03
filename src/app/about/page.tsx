@@ -53,7 +53,7 @@ export default function AboutPage() {
             Today
           </h2>
           <p>
-            Currently, I am a Computer Science student at GCET and a development intern at GACL. At GACL, I build offline computer vision pipelines that parse analog and digital readouts from camera feeds in chemical plants, saving operators hours of manual check-ins. When I am not in the lab or at my desk, I am working on open-source packages to make local AI models more controllable and useful in production systems.
+            Currently, I am a Computer Science student at GCET and a former development intern at GACL. At GACL, I built offline computer vision pipelines that parse analog and digital readouts from camera feeds in chemical plants, saving operators hours of manual check-ins. When I am not in the lab or at my desk, I am working on open-source packages to make local AI models more controllable and useful in production systems.
           </p>
         </FadeIn>
 
