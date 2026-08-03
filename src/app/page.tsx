@@ -20,7 +20,7 @@ export default function HomePage() {
         
         <FadeIn delay={0.25}>
           <p className="text-lg md:text-xl text-gray-400 font-sans max-w-2xl leading-relaxed mb-8">
-            Computer Science student, software engineer, and builder of AI-powered tools, automation systems, and desktop applications. Currently interning at GACL, studying at GCET, and figuring out what software should feel like.
+            Computer Science student, software engineer, and builder of AI-powered tools, automation systems, and desktop applications. Currently studying at GCET, and figuring out what software should feel like.
           </p>
         </FadeIn>
 
@@ -68,7 +68,7 @@ export default function HomePage() {
               </span>
             </div>
             <p className="text-sm md:text-base text-gray-300 font-sans leading-relaxed">
-              Currently: Development intern at <span className="text-white font-medium">GACL</span>, building industrial OCR systems. Studying Computer Science at <span className="text-white font-medium">GCET</span>. Working on <span className="text-white font-medium">ALEX</span>.
+              Most Recent Experience: Development intern at <span className="text-white font-medium">GACL</span>, building industrial OCR systems. Studying Computer Science at <span className="text-white font-medium">GCET</span>. Working on <span className="text-white font-medium">ALEX</span>.
             </p>
           </div>
         </FadeIn>
